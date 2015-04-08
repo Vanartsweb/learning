@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 something something
+=======
+something something
+goood
+>>>>>>> ffc20713f6187c180f5182d5ed2ef7c67eefe4b4
