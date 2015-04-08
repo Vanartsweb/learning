@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 something something
-=======
-something something
-goood
->>>>>>> 8baba86f4b3c49d7c726b103d0a7932342757352
