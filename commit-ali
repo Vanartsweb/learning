@@ -1,0 +1,14 @@
+commit e4bb4b77841491cdd732df1a0beb9f4ec86b6aa6
+Author: Dan BROOKS <githubcom@domaindesign.ca>
+Date:   Wed Apr 8 15:24:33 2015 -0700
+
+    ali's change
+
+diff --git a/heehyung.txt b/heehyung.txt
+index a8aae02..0edbe56 100644
+--- a/heehyung.txt
++++ b/heehyung.txt
+@@ -1 +1,2 @@
+ something something
++goood
+\ No newline at end of file
